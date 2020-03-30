@@ -38,3 +38,4 @@ def cost_history(W,weight_history):
     plt.show()
 
 cost_history(W,weight_history)
+#for i in range (4):
